@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45b5a6be-e661-45e6-9c5c-18f2faecc788" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wjt3uU7zKbP2QYCRKNT3iaxR2s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="skola.uppgift.Account" />
+      <recent name="skola.uppgift" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="skola.uppgift.Main" />
+      <module name="HeraklesCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skola.uppgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeraklesCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skola.uppgift.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="skola.uppgift.Tests" />
+      <option name="MAIN_CLASS_NAME" value="skola.uppgift.Tests.LogInTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInTest.all_login_tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeraklesCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skola.uppgift.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="skola.uppgift.Tests" />
+      <option name="MAIN_CLASS_NAME" value="skola.uppgift.Tests.LogInTest" />
+      <option name="METHOD_NAME" value="all_login_tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.delete_by_userName_password" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeraklesCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skola.uppgift.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="skola.uppgift.Tests" />
+      <option name="MAIN_CLASS_NAME" value="skola.uppgift.Tests.UserTest" />
+      <option name="METHOD_NAME" value="delete_by_userName_password" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.user_check_and_change_fields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeraklesCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skola.uppgift.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="skola.uppgift.Tests" />
+      <option name="MAIN_CLASS_NAME" value="skola.uppgift.Tests.UserTest" />
+      <option name="METHOD_NAME" value="user_check_and_change_fields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LogInTest.all_login_tests" />
+        <item itemvalue="JUnit.LogInTest" />
+        <item itemvalue="JUnit.UserTest.delete_by_userName_password" />
+        <item itemvalue="JUnit.UserTest.user_check_and_change_fields" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b5a6be-e661-45e6-9c5c-18f2faecc788" name="Default Changelist" comment="" />
+      <created>1579674635639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579674635639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="52" key="#UserTest." timestamp="1580594230158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="52" key="#UserTest./0.0.1536.824@0.0.1536.824" timestamp="1580594230158" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580594250066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580594250066" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580592457974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1580592457974" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1580659212884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580659212884" />
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580653661087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1580653661087" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580465763942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580465763942" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580582077066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580582077066" />
+    <state width="361" height="696" key="GridCell.Tab.0.bottom" timestamp="1580802530336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="361" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580802530336" />
+    <state width="361" height="696" key="GridCell.Tab.0.center" timestamp="1580802530336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="361" height="696" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580802530336" />
+    <state width="361" height="696" key="GridCell.Tab.0.left" timestamp="1580802530336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="361" height="696" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580802530336" />
+    <state width="361" height="696" key="GridCell.Tab.0.right" timestamp="1580802530336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="361" height="696" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580802530336" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1580679224846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580679224846" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1580679224846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580679224846" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1580679224846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580679224846" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1580679224846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580679224846" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580476501525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580476501525" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580501136315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1580501136315" />
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579718968554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1579718968554" />
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580659092881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1580659092881" />
+    <state x="0" y="0" width="740" height="824" key="find.popup" timestamp="1580554318258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="740" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580554318258" />
+    <state x="511" y="32" key="refactoring.ChangeSignatureDialog" timestamp="1579716837131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="32" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1579716837131" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580478261660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580478261660" />
+  </component>
+</project>
